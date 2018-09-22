@@ -1,0 +1,4 @@
+#Tue Sep 18 23:42:53 BRT 2018
+base.0=/Users/macbook/AndroidStudioProjects/SuperoTI/app/build/intermediates/transforms/dexMerger/debug/24
+path.0=classes.dex
+renamed.0=classes.dex

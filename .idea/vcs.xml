@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SuperoTI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/AppSuperoTI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/SuperoTI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/com/superoti/superoti" vcs="Git" />
+  </component>
+</project>
